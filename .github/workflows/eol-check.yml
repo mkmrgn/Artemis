@@ -1,6 +1,6 @@
 name: eol-check
 
-on: push
+on: workflow_dispatch
 
 jobs:
   scan:
